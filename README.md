@@ -1,6 +1,6 @@
 # Password Strength Checker
 
-This Python script checks password strenght and compares it against real-world breaches.
+This Python script checks password strenght and compares it against real-world breaches, with a little Josh flavor added in the responses!
 
 ## How to Use
 1. Install Python (if you haven't already).
